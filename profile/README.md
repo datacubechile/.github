@@ -1,4 +1,4 @@
-# Data Cube Chile
+<img width="300px" src="https://user-images.githubusercontent.com/3302774/178392472-278d5fec-0e7f-4e0c-91dc-adba9eb8637f.png">
 
 Data Cube Chile aims to build a national-scale information platform for earth observing information delivering value to the research, industry and government sectors
 
@@ -7,3 +7,4 @@ This is a new initiative and there will be more information, repositories and ex
 Data Cube Chile is a collaboration between CSIRO Chile, Universidad Adolfo Ibáñez and the Data Observatory
 
 <img width="858" alt="image" src="https://user-images.githubusercontent.com/3302774/178392273-5de31439-fbdd-4b36-8d0e-9f29035d26aa.png">
+
